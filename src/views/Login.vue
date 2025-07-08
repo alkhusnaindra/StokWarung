@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen flex items-center justify-center bg-[#F1F8E9] px-4">
+  <div class="min-h-screen w-full flex items-center justify-center bg-[#F1F8E9] px-4">
     <div class="w-full max-w-xs  p-3 rounded-lg">
       <h2 class="text-4xl text-center mb-2 font-bold">StokWarung</h2>
       <p class="text-center text-[14px] text-[#757575]">Stok lancar, dagangan aman. Login dulu yuk!</p>
